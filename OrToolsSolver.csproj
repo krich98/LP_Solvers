@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.OrTools" Version="9.3.10497" />
+    <PackageReference Include="Google.OrTools.runtime.win-x64" Version="9.3.10497" />
+  </ItemGroup>
+
+</Project>
